@@ -8,7 +8,9 @@ font-size:20px;
 border:5px dashed wheat;
 margin:30px;}
 
-.intro {font-size: 35px;}
+.legalstuff {font-size: 25px; font-style: italic;}
+
+#name{font-family:'Courier New', Courier, monospace}
 
 h1{font-size: 30px;}
 
